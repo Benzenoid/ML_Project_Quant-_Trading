@@ -45,6 +45,4 @@ Contributions to this project are welcome. To contribute:
 ## Contact
 
 Rishabh Bhardwaj - rishabhbhardwaj2109@gmail.com
-
-
 ```
